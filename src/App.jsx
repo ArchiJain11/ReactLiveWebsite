@@ -17,7 +17,7 @@ import Footer from './Footer'
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/ReactLiveWebsite">
       <Navbar/>
        <Routes>
         <Route path="/" element={<Home/>}/>
