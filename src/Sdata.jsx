@@ -1,9 +1,9 @@
-import web from "../../Image/web.jpg";
-import app from "../../Image/app.jpeg";
-import software from "../../Image/software.jpeg";
-import digital from "../../Image/digitalMarket.jpeg";
-import android from "../../Image/android.jpeg";
-import marketing from "../../Image/marketing.jpg";
+import web from "../Image/web.jpg";
+import app from "../Image/app.jpeg";
+import software from "../Image/software.jpeg";
+import digital from "../Image/digitalMarket.jpeg";
+import android from "../Image/android.jpeg";
+import marketing from "../Image/marketing.jpg";
 
 const Sdata = [
     {
